@@ -60,4 +60,4 @@ determines if the specific event had ever existed before based on Properties dec
 in $curGroupObj. If existed – it is non-anomaly, if not – it is anomaly
 
 Architecture:
-
+<img width="809" height="551" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/959a1e68-7616-426b-9f48-4fcd3badfffe" />
