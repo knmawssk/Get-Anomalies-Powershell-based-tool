@@ -60,4 +60,4 @@ determines if the specific event had ever existed before based on Properties dec
 in $curGroupObj. If existed – it is non-anomaly, if not – it is anomaly
 
 Architecture:
-("C:\Users\Камила\Downloads\Telegram Desktop\Untitled Diagram.drawio.png")
+(C:\Users\Камила\Downloads\Telegram Desktop\Untitled Diagram.drawio.png)
