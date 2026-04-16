@@ -59,3 +59,5 @@ events) and $eventsGrouped (current events found in this specific run), function
 determines if the specific event had ever existed before based on Properties declared
 in $curGroupObj. If existed – it is non-anomaly, if not – it is anomaly
 
+Architecture:
+("C:\Users\Камила\Downloads\Telegram Desktop\Untitled Diagram.drawio.png")
