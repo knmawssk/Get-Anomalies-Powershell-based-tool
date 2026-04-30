@@ -68,7 +68,7 @@ Architecture:
 `Import-Module ./Invoke-AnomalyHunter.ps1`
 
 - To run it once:
-`Invoke-AllAnomalyHunter`
+<p>`Invoke-AllAnomalyHunter`</p>
 
 - To schedule it for continuous scheduled execution:
 `Add-ScheduledAnomalyHunter`
