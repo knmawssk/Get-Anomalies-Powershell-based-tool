@@ -67,14 +67,14 @@ Architecture:
 
 `Import-Module ./Invoke-AnomalyHunter.ps1`
 
-# To run it once:
+- To run it once:
 `Invoke-AllAnomalyHunter`
 
-# To schedule it for continuous scheduled execution:
+- To schedule it for continuous scheduled execution:
 `Add-ScheduledAnomalyHunter`
 
-# To delete the scheduled task:
+- To delete the scheduled task:
 `Remove-ScheduledAnomalyHunter`
 
-# To delete the tool:
+- To delete the tool:
 `Uninstall-AnomalyHunter`
