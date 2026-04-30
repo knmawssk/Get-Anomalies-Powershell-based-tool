@@ -61,3 +61,20 @@ in $curGroupObj. If existed – it is non-anomaly, if not – it is anomaly
 
 Architecture:
 <img width="1421" height="965" alt="image" src="https://github.com/user-attachments/assets/49906706-0063-4fce-bb2a-dde27454cbe1" />
+
+# Installation proccess
+<p>Make sure that WinLogs-Toolkit is in the same directory as Invoke-AnomalyHunter.</p>
+
+`Import-Module ./Invoke-AnomalyHunter.ps1`
+
+# To run it once:
+`Invoke-AllAnomalyHunter`
+
+# To schedule it for continuous scheduled execution:
+`Add-ScheduledAnomalyHunter`
+
+# To delete the scheduled task:
+`Remove-ScheduledAnomalyHunter`
+
+# To delete the tool:
+`Uninstall-AnomalyHunter`
